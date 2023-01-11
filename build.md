@@ -1,27 +1,19 @@
-CLI: revanced-cli-2.17.0-all.jar  
-Integrations: app-release-unsigned-v0.84.0.apk  
-Patches: revanced-patches-2.143.0.jar  
+CLI: revanced-cli-2.20.0-all.jar  
+Integrations: revanced-integrations-0.92.2-v0.92.2.apk  
+Patches: revanced-patches-2.153.0.jar  
 
-### [2.143.0](https://github.com/revanced/revanced-patches/compare/v2.142.0...v2.143.0) (2022-12-14)
-
-
+### [2.153.0](https://github.com/revanced/revanced-patches/compare/v2.152.0...v2.153.0) (2023-01-07)
 ### Bug Fixes
-
-* **predictive-back-gesture:** create attribute, if it does not exist ([c00e771](https://github.com/revanced/revanced-patches/commit/c00e7717053f806e3b5b3f0bf0ca9c2da07c289b))
-
-
+* **youtube/general-ads:** move settings to correct preference screens ([cde45fc](https://github.com/revanced/revanced-patches/commit/cde45fca769eddea64072f13f836d46560a4a89a))
 ### Features
-
-* **sleepasandroid:** remove `unlock-premium` patch ([#1253](https://github.com/revanced/revanced-patches/issues/1253)) ([414f503](https://github.com/revanced/revanced-patches/commit/414f503e493f2dc27edf134f5db723da77636d81))
-
-
-
+* **youtube/remember-video-quality:** simplify settings switch state description ([9bd42ec](https://github.com/revanced/revanced-patches/commit/9bd42ec1a1b54b103cd2550211515acdaf90e9de))
+* **youtube:** `remember-playback-rate` patch ([177e908](https://github.com/revanced/revanced-patches/commit/177e908dba260f184a2835b73b834563ca9c29fd))
 
   
 **App Versions:**  
-YouTube: 17.45.36  
-Music (arm64-v8a): 5.34.51  
-TikTok: 27.0.3  
-Music (arm-v7a): 5.34.51  
+YouTube: 17.49.37  
+Music (arm64-v8a): 5.36.51  
+
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
